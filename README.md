@@ -1,2 +1,0 @@
-# HtmlSurveyForm
-Created with CodeSandbox
